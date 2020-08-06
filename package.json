@@ -1,0 +1,14 @@
+{
+  "name": "tcc-mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "repository": "https://github.com/rubensojunior/tcc-mobile.git",
+  "author": "rubensojunior <rubensojunior6@gmail.com>",
+  "license": "MIT"
+}
