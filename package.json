@@ -5,7 +5,8 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "packages/*"
+      "packages/*",
+      "packages/shared/*"
     ]
   },
   "repository": "https://github.com/rubensojunior/tcc-mobile.git",
@@ -15,3 +16,4 @@
     "typescript": "^3.9.7"
   }
 }
+ 
