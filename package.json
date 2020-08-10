@@ -10,5 +10,8 @@
   },
   "repository": "https://github.com/rubensojunior/tcc-mobile.git",
   "author": "rubensojunior <rubensojunior6@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
