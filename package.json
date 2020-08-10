@@ -13,7 +13,8 @@
   "author": "rubensojunior <rubensojunior6@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "@calorie-counter/eslint-config": "*"
   }
 }
  
